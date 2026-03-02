@@ -1,1 +1,1019 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local c={"\114\100\074\102\080\080\052\071\120\057\082\043\080\100\051\061","\104\088\074\070\120\057\105\061";"\072\089\109\061","\053\118\078\050\051\048\114\103\114\047\061\061","\072\057\067\050\106\047\061\061","\051\113\052\082\072\113\122\061";"\097\065\052\078\051\080\114\052\051\065\078\104\117\118\086\043\078\071\061\061";"\120\104\077\084\072\043\109\061","\114\069\082\110\117\057\103\078\065\089\051\050\078\097\066\084\078\122\061\061","\072\113\065\054","\114\113\074\090\114\118\077\119\072\101\051\061","\097\065\065\078\053\050\082\087\071\112\065\084\120\050\082\048\065\080\048\061","\051\100\065\050\072\057\065\050\076\104\078\082\076\101\110\103";"\065\113\067\099\051\113\065\084\109\048\078\103\114\113\065\069\114\113\065\108\109\071\061\061";"\097\069\082\076\117\113\078\102\120\080\067\078\051\112\082\089\097\113\055\061";"\065\113\114\108\065\112\114\116\117\067\066\100\120\113\052\056\078\047\061\061";"\114\113\067\081\072\113\097\061";"\117\055\061\061","\051\101\065\099\072\043\120\103";"\120\100\088\082\114\113\052\066","\070\076\089\075\057\117\052\104\067\048\054\102\053\051\078\053\065\080\102\068\119\120\047\068\051\079\069\070\111\116\078\110\116\106\097\116\117\087\101\053\055\081\081\074\107\115\068\112\088\107\111\122\074\054\086\069\083\112\115\097\106\080\106\075\084\055\050\053\113\103\118\053\088\050\088\052\083\048\108\043\050\119\115\077\043\074\083\070\052\119\073\109\102\065\086\075\104\057\117\087\090\117\079\107\102\109\086\071\071\055\079\082\087\071\111\068\113\078\097\061";"\117\081\055\103\120\079\066\119\117\055\061\061","\120\088\065\073\085\112\066\090\085\118\119\065\097\069\076\090","\072\089\048\061";"\120\043\052\088\076\055\061\061";"\120\101\088\100\117\113\109\110\085\080\076\043\085\057\114\080\080\055\061\061","\076\112\103\050\120\071\061\061";"\114\057\102\122\076\057\052\083","\076\100\082\082\051\055\061\061";"\114\113\074\054\114\057\088\081\120\104\109\061";"\051\043\078\084\106\057\102\112";"\052\065\077\112\085\118\103\118\076\043\051\061";"\072\113\074\082\120\118\052\050\051\101\103\054\120\122\061\061","\104\088\074\112\076\122\061\061","\120\089\109\110\052\048\065\102\065\097\102\084\065\097\077\082\117\113\070\061","\104\088\074\099\120\104\078\082\114\113\067\081\072\113\097\061","","\120\100\067\099\120\071\061\061";"\120\101\110\056\072\043\109\061";"\065\088\073\071\106\043\052\084\065\057\077\052\080\043\103\079\106\122\061\061";"\104\088\074\119\072\101\078\103\085\047\061\061","\072\048\070\084\071\088\120\071\057\118\086\100\071\088\119\081\078\118\047\061";"\086\113\088\100\114\050\103\067\086\065\067\103\052\048\055\061";"\051\101\067\054\120\113\074\099","\076\100\074\054\076\100\067\050";"\080\097\082\120\065\067\067\054\071\057\099\057\057\104\052\086\120\055\061\061","\071\088\073\086\057\118\065\079\065\069\097\122\078\050\086\090\114\080\048\061"}local function n(n)return c[n-(55694+-12129)]end for n,e in ipairs({{332104-332103;279702-279655};{-303943+303944;662634+-662622};{-238722+238735,902796+-902749}})do while e[-986512+986513]<e[139585-139583]do c[e[75645+-75644]],c[e[361270-361268]],e[755381+-755380],e[-329093+329095]=c[e[136508+-136506]],c[e[-522665-(-522666)]],e[850696-850695]+(494086+-494085),e[-14163-(-14165)]-(-114561+114562)end end do local n={L=-821741+821765;x=824206+-824181,R=-52997-(-53030),k=650829+-650771,J=104793+-104732;n=-927513-(-927562);G=-841879-(-841895),t=-208729+208740,Y=-261586+261589,d=-379811+379865,M=-1025698+1025707;["\053"]=485208+-485190,j=675643-675617,I=-2921-(-2922),C=-372159+372164;D=111519-111456;b=-539802+539862,Q=-937360-(-937394);V=685141+-685129;p=-163983-(-164022),A=488055+-488034,["\054"]=486867-486821;c=-416871+416916,F=-182003-(-182047);["\048"]=933334-933330;w=-540671+540712,r=-439349+439378,S=151699+-151656;["\052"]=-194762+194775,f=330155+-330098;a=605868-605848,P=450389+-450370,g=-241943-(-241980);e=-758803-(-758841),["\056"]=290046-289999,z=-414422-(-414470);["\051"]=-424691-(-424719),T=522696-522646;u=751262+-751248;q=417477-417471;U=740038-740008,["\050"]=200481-200429;l=857755-857719,v=-773212+773219;["\043"]=-722717+722772;B=840317+-840277,N=348925+-348908,m=-870899+870907,y=482071-482040;["\049"]=961234-961192,i=624080-624024,H=-188205-(-188232);["\055"]=970358+-970326;["\047"]=768744-768744;o=-769239+769249;s=789211+-789152;h=-179190-(-179213);O=1032364+-1032362,E=922613-922578,Z=-619034-(-619085),K=811297-811235,W=442307+-442292;["\057"]=-257482-(-257504),X=295443-295390}local e=table.concat local E=math.floor local k=string.len local O=type local F=c local v=string.char local X=string.sub local N=table.insert for c=991976-991975,#F,608914+-608913 do local V=F[c]if O(V)=="\115\116\114\105\110\103"then local O=k(V)local W={}local w=997494-997493 local g=965674-965674 local M=-303402+303402 while w<=O do local c=X(V,w,w)local e=n[c]if e then g=g+e*(-81502+81566)^((14561+-14558)-M)M=M+(-813589+813590)if M==934802+-934798 then M=632987-632987 local c=E(g/(434852-369316))local n=E((g%(607204+-541668))/(384924-384668))local e=g%(27724+-27468)N(W,v(c,n,e))g=-292050+292050 end elseif c=="\061"then N(W,v(E(g/(737651+-672115))))if w>=O or X(V,w+(-1043047+1043048),w+(931323-931322))~="\061"then N(W,v(E((g%(939916+-874380))/(-109594+109850))))end break end w=w+(604041-604040)end F[c]=e(W)end end end return(function(c,E,k,O,F,v,X,Z,N,V,y,g,o,L,e,w,W,Y,i,M,B)y,W,V,e,i,w,Z,N,M,o,L,Y,B,g=function(c)V[c]=V[c]-(-259577-(-259578))if V[c]==-761426-(-761426)then V[c],N[c]=nil,nil end end,function()w=w+(716784+-716783)V[w]=-357851+357852 return w end,{},function(e,k,O,F)local B,K,u,P,s,z,l,q,D,m,U,r,M,Q,A,G,b,T,V,S,I,C,H,w,j,h,d,X,J,g,a,f,x,R while e do if e<-598930+9276245 then if e<-306984+3652378 then if e<1100870-(-506259)then if e<-788201+1809836 then if e<1179151-262421 then if e<-409965+1217465 then if e<-949913+1441343 then e=5300940-(-417312)else w=n(-391924-(-435497))X=328678+1067989 g=1126727-280894 V=w^g e=X-V V=e X=n(218104-174495)e=X/V X={e}e=c[n(958278-914666)]end else e=m X=U e=U and-334286+10167263 or 11701780-67693 end else if e<75526+868378 then X={}e=c[n(-840576+884152)]else b=n(484666+-441086)e=c[b]b=n(907015-863414)c[b]=e e=2676656-552941 end end else if e<-466345+1927605 then if e<897879+222459 then N[w]=X e=15834836-443173 else r=n(-898656+942239)X=n(-444034+487641)M=n(-9795+53383)U=i(-794705+1431230,{})e=c[X]V=N[O[-746175+746179]]g=c[M]x=c[r]r={x(U)}j={E(r)}x=420415-420413 B=j[x]M=g(B)g=n(-796387-(-839986))w=V(M,g)V={w()}X=e(E(V))w=N[O[389438+-389433]]V=X X=w e=w and 693850+13835933 or 12873284-446138 end else if e<648209+956426 then U=-627057-(-627059)g=242124+-242092 w=N[O[992756+-992753]]V=w%g M=N[O[-657036-(-657040)]]x=N[O[674451-674449]]D=N[O[-995593+995596]]s=D-V D=-779974+780006 l=s/D A=-1041586+1041599 m=A-l r=U^m j=x/r B=M(j)M=-816290+4295783586 g=B%M B=146775-146773 M=B^V w=g/M r=-282878+282879 A=-754535+754791 M=N[O[-504451+504455]]U=200471+-200215 x=w%r r=4295153907-186611 V=nil j=x*r B=M(j)M=N[O[-933759-(-933763)]]x=726793+-661257 j=M(w)g=B+j B=746180-680644 M=g%B j=g-M B=j/x g=nil x=912050-911794 j=M%x r=M-j x=r/U e=5430455-837460 w=nil M=nil U=-607904-(-608160)r=B%U m=B-r U=m/A B=nil m={j;x;r,U}N[O[534395-534394]]=m r=nil x=nil j=nil U=nil else e=o(10550521-(-651148),{M})f={e()}X={E(f)}e=c[n(-102431-(-146034))]end end end else if e<2961929-698088 then if e<1655877-(-398345)then if e<-667574+2697054 then if e<2616519-964997 then D=T e=11962052-(-74075)q=D s[D]=q D=nil else x=n(841620+-798038)j=X l=n(712110+-668516)X=c[x]x=n(25513-(-18061))e=X[x]x=W()N[x]=e r=n(-632110-(-675704))X=c[r]r=n(-138355-(-181930))e=X[r]m=e r=e A=c[l]e=A and 13647460-(-292423)or 519414+323365 U=A end else e=867662+6512611 w=N[O[-713891+713894]]g=-1923+2177 V=w*g w=-231074+231331 X=V%w N[O[-169231+169234]]=X end else if e<1619687-(-516248)then e=711799+5006453 else e=true e=241054+1363769 end end else if e<3621367-786498 then if e<-806683+3359808 then w=N[O[-563393-(-563395)]]g=-55615+55792 V=w*g w=576297+17882348148062 X=V+w V=35184371048572-(-1040260)w=-277192+277193 e=X%V N[O[115219-115217]]=e V=N[O[-874474+874477]]X=V~=w e=1488653-(-565029)else B=-186148+35184372274980 r=n(-41193+84801)e={}N[O[-22346+22348]]=e x=1023451-1023196 X=N[O[747313-747310]]M=X X=w%B N[O[808422-808418]]=X j=w%x e=360099+5604545 x=467186+-467184 B=j+x N[O[-98801+98806]]=B x=c[r]r=n(-815364-(-858951))j=x[r]x=j(V)j=n(-255402-(-298969))r=-696194-(-696195)g[w]=j m=-476706-(-476707)j=534314+-534084 U=x A=m m=-864132+864132 l=A<m m=r-A end else if e<3558615-696994 then G=-317667-(-317668)H=K[G]Q=H e=12194885-(-542991)else T=W()D={}J=W()s=nil j=nil C=n(-417738+461328)N[T]=D b=i(8325481-(-237773),{T,U,m,B})a=n(742609-699038)D=W()B=y(B)N[D]=b A=nil x=nil X={}A=26949712219033-(-599404)b={}M=nil G=nil N[J]=b q={}K=n(-179119-(-222685))b=c[C]d=N[J]u={[a]=d;[K]=G}r=nil C=b(q,u)g=C x=n(-976391-(-1019959))b=L(16232227-(-481453),{J,T;l,U;m,D})w=b l=y(l)D=y(D)B=n(498005+-454395)M=c[B]J=y(J)j=c[x]U=y(U)T=y(T)m=y(m)m=n(-428762+472360)e=c[n(-981687-(-1025287))]U=w(m,A)r=g[U]U=n(296926-253345)U=j[U]w=nil x={U(j,r)}B=M(E(x))g=nil M=B()end end end end else if e<5195410-(-645717)then if e<4482191-(-175814)then if e<218748+4120126 then if e<959842+3113247 then if e<4401379-544170 then f=N[w]I=f e=f and-753159+13152171 or 16945694-710175 else w=n(708822-665244)X=4638416-(-786032)g=-357415+7627303 V=w^g e=X-V X=n(564950+-521366)V=e e=X/V X={e}e=c[n(-923634+967220)]end else R=n(229065-185457)r=m f=c[R]R=n(258013-214409)I=f[R]f=I(V,r)I=N[O[222891-222885]]R=I()T=f+R R=-103151-(-103152)r=nil D=T+j T=-828994-(-829250)s=D%T e=6769718-805074 j=s T=g[w]f=j+R I=M[f]D=T..I g[w]=D end else if e<4250501-(-313288)then j=N[B]e=706191+1268911 X=j else g=n(-558448-(-602042))w=c[g]e=c[n(-219874-(-263444))]g=n(-272403-(-315999))V=w[g]g=N[O[58968-58967]]w={V(g)}X={E(w)}end end else if e<186640+5250428 then if e<470968+4443764 then e=N[x]R=131696-131695 b=87144+-87138 f=e(R,b)e=n(-338034+381614)c[e]=f b=n(1026556-982976)R=c[b]b=-359865+359867 e=R>b e=e and 15141070-890373 or 1036629-28436 else e=true e=e and 252090+-31395 or 142895+1461928 end else if e<6196529-476910 then e=true e=e and-847826+5721438 or-638884+7067308 else x=n(692676-649093)w=W()M=W()g=n(330753+-287145)B=W()e=true N[w]=e X=c[g]g=n(673774-630177)r=i(8351002-(-264256),{B})e=X[g]g=W()V=k N[g]=e e=Y(8376782-(-206405),{})N[M]=e e=false N[B]=e j=c[x]x=j(r)e=x and 352283+4190895 or-885688+2860790 X=x end end end else if e<109968+8186779 then if e<6737645-(-487841)then if e<-395272+6909426 then if e<5089337-(-889557)then s=not l m=m+A r=m<=U r=s and r s=m>=U s=l and s r=s or r s=978494+3195323 e=r and s r=-769795+10884412 e=e or r else e=c[n(413141-369548)]X={}end else x=not j g=g+B w=g<=M w=x and w x=g>=M x=j and x w=x or w x=8599852-(-1011049)e=w and x w=9789596-(-530794)e=e or w end else if e<7731812-(-186240)then g=-687062-(-687063)w=N[O[399537-399534]]V=w~=g e=V and 965325-(-639094)or 1300358-(-753324)else T=y(T)x=y(x)A=nil r=nil U=y(U)M=y(M)D=nil B=y(B)w=y(w)D=518616-518615 s=nil g=y(g)m=y(m)j=nil g=nil U=n(652313+-608705)w=nil l=nil m=W()A={}j=n(-874908+918490)B=c[j]j=n(127374+-83805)e=12772618-736491 r=n(76861+-33267)M=B[j]B=W()x=n(-640411+683993)N[B]=M l=W()j=c[x]x=n(79266-35692)M=j[x]x=c[r]r=n(-157669+201265)j=x[r]r=c[U]U=n(-360862-(-404468))x=r[U]r=-643512+643512 T=760469-760213 U=W()N[U]=r b=T r=-907031+907033 s={}N[m]=r r={}N[l]=A A=1021035+-1021035 T=-435259+435260 J=T T=492055+-492055 C=J<T T=D-J end end else if e<1032446+7538856 then if e<286248+8136972 then J=W()K=316690+-316688 N[J]=I q=187605+-187505 C=n(282880+-239298)X=c[C]u=369130+-368875 C=n(505627-462053)e=X[C]C=943718+-943717 X=e(C,q)S=981341+-971341 C=W()N[C]=X G=n(16662-(-26926))e=N[x]q=106067-106067 X=e(q,u)q=W()N[q]=X e=N[x]u=104581+-104580 a=N[C]X=e(u,a)u=W()N[u]=X X=N[x]d=-995602+995603 a=X(d,K)X=-865181-(-865182)e=a==X X=n(-52966+96565)K=n(625763-582168)a=W()z=388976-388976 N[a]=e H=c[G]P=N[x]e=n(-653077-(-696679))h={P(z,S)}G=H(E(h))H=n(-16607-(-60202))Q=G..H d=K..Q e=D[e]e=e(D,X,d)K=n(856491-812908)d=W()Q=Y(16223010-169338,{x,J;m;g,w,T,a;d;C,u;q,U})N[d]=e X=c[K]K={X(Q)}e={E(K)}K=e e=N[a]e=e and 16518345-928757 or 14463817-(-599433)else V=N[O[307119-307118]]X=#V V=-153658-(-153658)e=X==V e=e and-267162+2773823 or-413860+5006855 end else if e<8194955-(-406708)then X=n(-687892-(-731477))e=c[X]V=n(540252-496661)X=e(V)e=c[n(988391-944819)]X={}else e=true N[O[486972-486971]]=e X={}e=c[n(977021-933429)]end end end end end else if e<12508250-(-276186)then if e<103330+10604649 then if e<-668667+10692038 then if e<-980278+10558187 then if e<-865332+10043918 then if e<9466339-517609 then e=N[O[-681951-(-681958)]]e=e and 12793766-692775 or 828244+12551324 else e=-723154+8784804 end else b=#s T=29359+-29358 D=M(T,b)T=j(s,D)D=nil q=642257-642256 b=N[l]C=T-q e=15959976-612945 J=x(C)b[T]=J T=nil end else if e<10392875-770069 then w=g e=N[O[-813333+813334]]U=-1011513-(-1011768)r=998275+-998275 x=e(r,U)V[w]=x w=nil e=5911907-(-602818)else U=W()D=Z(4807329-843836,{})N[U]=X A=679946+-679881 e=N[x]m=83469-83466 R=n(-294667+338255)X=e(m,A)m=W()N[m]=X s=n(227472-183889)X=c[s]s={X(D)}e=147145-147145 A=e e=154097+-154097 l=e X=876393-876391 e={E(s)}s=e e=s[X]X=n(145158+-101551)D=e e=c[X]T=N[g]f=c[R]R=f(D)f=n(1032400+-988801)I=T(R,f)T={I()}X=e(E(T))T=W()N[T]=X X=325434-325433 e=1004440+13992176 I=N[m]f=I I=919760+-919759 R=I I=-238730+238730 b=R<I I=X-R end end else if e<35104+10212571 then if e<-192500+10403706 then j=nil e=9787757-(-917977)M=nil x=nil else e=8336+10697398 end else if e<9926725-(-457732)then e=N[O[1047018+-1047008]]w=N[O[244677+-244666]]V[e]=w e=N[O[951232+-951220]]w={e(V)}e=c[n(462078-418501)]X={E(w)}else X={w}e=c[n(-109877+153466)]end end end else if e<977227+11142470 then if e<12446948-429040 then if e<323613+11601089 then if e<331619+10982178 then e=13664730-726733 else m=n(483194-439589)U=c[m]e=814409+9018568 X=U end else H=e h=-218898-(-218899)P=K[h]h=false G=P==h e=G and 14691729-(-293580)or-976423+17725505 Q=G end else if e<617775+11428684 then q=not C T=T+J D=T<=b D=q and D q=T>=b q=C and q D=q or D q=495181+1115261 e=D and q D=-890728+17560866 e=e or D else V=n(559505-515920)g=248779+-248779 e=c[V]w=N[O[826575+-826567]]V=e(w,g)e=14069507-689939 end end else if e<374338+12030785 then if e<-222197+12558920 then X=n(817611+-774031)e=c[X]V=n(-169647+213248)X=c[V]V=n(-80367-(-123968))c[V]=e V=n(132620+-89040)c[V]=X e=891246+12046751 V=N[O[567084+-567083]]w=V()else f=A==l e=16474188-238669 I=f end else if e<261150+12377403 then V=nil e=900829+8015870 N[O[-768342+768347]]=X else N[w]=Q h=N[u]z=363779+-363778 P=h+z G=K[P]H=A+G G=180272-180016 e=H%G A=e P=N[q]G=l+P P=408400+-408144 H=G%P l=H e=376258+15015405 end end end end else if e<14875315-(-199838)then if e<14661516-377356 then if e<1027354+12858651 then if e<-194306+13648444 then if e<603200+12397436 then e=true e=e and-243853+12430870 or-285862+1222627 else e={}V=e e=769328+5745397 g=N[O[775904+-775895]]M=g w=769267+-769266 g=672564+-672563 B=g g=-783432+783432 j=B<g g=w-B end else e=16935731-672452 w=N[O[329260+-329258]]g=N[O[-684594-(-684597)]]V=w==g X=V end else if e<14810036-593008 then s=n(-87079-(-130673))l=c[s]s=n(-301086-(-344691))A=l[s]U=A e=263965-(-578814)else J=n(-314626-(-358227))R=n(-299621-(-343209))e=c[R]b=c[J]R=e(b)e=n(638951-595371)c[e]=R e=1707341-(-416374)end end else if e<15976705-980433 then if e<-568276+15159662 then g=N[O[-1022471+1022477]]e=12440043-12897 w=g==V X=w else h=-175736+175738 P=K[h]h=N[d]e=16107044-(-642038)G=P==h Q=G end else if e<14657137-(-400943)then J=not b I=I+R X=I<=f X=J and X J=I>=f J=b and J X=J or X J=-459074+8805739 e=X and J X=117644+3239421 e=e or X else H=N[w]Q=H e=H and 3442733-586782 or 11720638-(-1017238)end end end else if e<16075534-(-181050)then if e<15117708-(-721993)then if e<14828572-(-617690)then if e<15291853-(-70124)then b=-20354-(-20354)T=#s D=T==b e=D and-237657+3229028 or-391359+9888638 else e=14692482-(-304134)q=y(q)J=y(J)a=y(a)C=y(C)d=y(d)u=y(u)K=nil end else Q=N[w]e=Q and 11143638-(-785328)or-381357+1431199 X=Q end else if e<670622+15523363 then B=64788-64786 M=266576+-266575 w=N[O[-505012-(-505013)]]g=w(M,B)w=-603781+603782 V=g==w X=V e=V and 16584803-321524 or 13984528-102381 else N[w]=I e=N[w]e=e and 190184+8879020 or-64014+2200535 end end else if e<-898281+17580628 then if e<-65749+16333459 then e=X and 256042+1074663 or 493590+8423109 else T=#s b=-335007-(-335007)e=9364841-(-132438)D=T==b end else if e<-1010380+17741097 then V=k[-435353-(-435354)]e=N[O[-761788-(-761789)]]g=e w=k[-662440+662442]e=g[w]e=e and 11116660-894965 or 3154641-591267 else e=H e=1356978-307136 X=Q end end end end end end end e=#F return E(X)end,function(c,n)local E=g(n)local k=function()return e(c,{},n,E)end return k end,262255+-262255,function(c,n)local E=g(n)local k=function(k,O,F,v)return e(c,{k,O,F;v},n,E)end return k end,{},function(c)local n,e=-164186+164187,c[389030+-389029]while e do V[e],n=V[e]-(-50517+50518),n+(-146196-(-146197))if 664574-664574==V[e]then V[e],N[e]=nil,nil end e=c[n]end end,function(c,n)local E=g(n)local k=function(k)return e(c,{k},n,E)end return k end,function(c,n)local E=g(n)local k=function(k,O,F,v,X,N)return e(c,{k;O,F;v;X;N},n,E)end return k end,function(c,n)local E=g(n)local k=function(k,O)return e(c,{k,O},n,E)end return k end,function(c,n)local E=g(n)local k=function(...)return e(c,{...},n,E)end return k end,function(c)for n=695512+-695511,#c,-524037+524038 do V[c[n]]=V[c[n]]+(931276+-931275)end if k then local e=k(true)local E=F(e)E[n(422304-378733)],E[n(717841+-674230)],E[n(799449-755870)]=c,M,function()return-537660-(-370162)end return e else return O({},{[n(-494679+538290)]=M;[n(631867-588296)]=c;[n(149341-105762)]=function()return 786071-953569 end})end end return(B(6418868-638386,{}))(E(X))end)(getfenv and getfenv()or _ENV,unpack or table[n(876669+-833064)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+-- ============================================================
+-- Moon Incremental by NVHeadMonbo
+-- FIXED VERSION: Junkie Key System FIRST, then Main UI
+-- ============================================================
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local HttpService = game:GetService("HttpService")
+local Lighting = game:GetService("Lighting")
+
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+-- Prevent UI stacking on reload
+if PlayerGui:FindFirstChild("MoonIncrementalGUI") then
+    PlayerGui:FindFirstChild("MoonIncrementalGUI"):Destroy()
+end
+
+if PlayerGui:FindFirstChild("JunkieKeySystemUI") then
+    PlayerGui:FindFirstChild("JunkieKeySystemUI"):Destroy()
+end
+
+-- ============================================================
+-- JUNKIE KEY SYSTEM - RUNS FIRST!
+-- ============================================================
+
+print("[Moon Incremental] Loading Junkie Key System...")
+
+local Junkie = loadstring(game:HttpGet("https://jnkie.com/sdk/library.lua"))()
+Junkie.service = "Cuty"
+Junkie.identifier = "1037885"
+Junkie.provider = "Cuty/Moon Incremental"
+
+local options = {
+    title = "Moon Incremental",
+    subtitle = "by NVHeadMonbo",
+    description = "Please complete key verification to use the script"
+}
+
+-- Key storage functions
+local function saveVerifiedKey(key)
+    pcall(function()
+        writefile("moonincremental_key.txt", key)
+    end)
+end
+
+local function loadVerifiedKey()
+    local success, key = pcall(function()
+        return readfile("moonincremental_key.txt")
+    end)
+    return success and key or nil
+end
+
+local function clearSavedKey()
+    pcall(function()
+        delfile("moonincremental_key.txt")
+    end)
+end
+
+-- Colors for Junkie UI
+local Colors = {
+    background = Color3.fromRGB(13, 17, 23),
+    surface = Color3.fromRGB(22, 27, 34),
+    surfaceLight = Color3.fromRGB(30, 36, 44),
+    primary = Color3.fromRGB(88, 166, 255),
+    primaryDark = Color3.fromRGB(58, 136, 225),
+    primaryGlow = Color3.fromRGB(120, 180, 255),
+    accent = Color3.fromRGB(136, 87, 224),
+    success = Color3.fromRGB(47, 183, 117),
+    successDark = Color3.fromRGB(37, 153, 97),
+    successGlow = Color3.fromRGB(67, 203, 137),
+    error = Color3.fromRGB(248, 81, 73),
+    textPrimary = Color3.fromRGB(230, 237, 243),
+    textSecondary = Color3.fromRGB(139, 148, 158),
+    textMuted = Color3.fromRGB(110, 118, 129),
+    border = Color3.fromRGB(48, 54, 61),
+    borderLight = Color3.fromRGB(63, 71, 79),
+    glass = Color3.fromRGB(255, 255, 255),
+    neonBlue = Color3.fromRGB(0, 229, 255),
+    neonPurple = Color3.fromRGB(187, 134, 252)
+}
+
+-- Junkie UI Factory (simplified version)
+local function loadUIFactory()
+    return function(Colors, Players, TweenService, UserInputService, Lighting)
+        return function(self)
+            local player = Players.LocalPlayer
+            local gui = Instance.new("ScreenGui")
+            gui.Name = "JunkieKeySystemUI"
+            gui.ResetOnSpawn = false
+            gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+            gui.Parent = player:WaitForChild("PlayerGui")
+            
+            self.gui = gui
+            self.elements = {}
+            
+            -- Background blur
+            local blur = Instance.new("BlurEffect")
+            blur.Name = "JunkieUIBlur"
+            blur.Size = 0
+            blur.Parent = Lighting
+            
+            TweenService:Create(blur, TweenInfo.new(0.3), {Size = 12}):Play()
+            
+            -- Container
+            local container = Instance.new("Frame")
+            container.Name = "Container"
+            container.Size = UDim2.new(0, 420, 0, 280)
+            container.Position = UDim2.new(0.5, 0, 0.5, 0)
+            container.AnchorPoint = Vector2.new(0.5, 0.5)
+            container.BackgroundColor3 = Colors.surface
+            container.BorderSizePixel = 0
+            container.Parent = gui
+            
+            local containerCorner = Instance.new("UICorner")
+            containerCorner.CornerRadius = UDim.new(0, 12)
+            containerCorner.Parent = container
+            
+            local containerStroke = Instance.new("UIStroke")
+            containerStroke.Color = Colors.border
+            containerStroke.Thickness = 1
+            containerStroke.Parent = container
+            
+            -- Header
+            local header = Instance.new("Frame")
+            header.Name = "Header"
+            header.Size = UDim2.new(1, 0, 0, 50)
+            header.BackgroundColor3 = Colors.background
+            header.BorderSizePixel = 0
+            header.Parent = container
+            
+            local headerCorner = Instance.new("UICorner")
+            headerCorner.CornerRadius = UDim.new(0, 12)
+            headerCorner.Parent = header
+            
+            local headerFix = Instance.new("Frame")
+            headerFix.Size = UDim2.new(1, 0, 0, 10)
+            headerFix.Position = UDim2.new(0, 0, 1, -10)
+            headerFix.BackgroundColor3 = Colors.background
+            headerFix.BorderSizePixel = 0
+            headerFix.Parent = header
+            
+            -- Title
+            local title = Instance.new("TextLabel")
+            title.Size = UDim2.new(1, -40, 0, 24)
+            title.Position = UDim2.new(0, 20, 0, 8)
+            title.BackgroundTransparency = 1
+            title.Text = self.title
+            title.TextColor3 = Colors.textPrimary
+            title.TextSize = 16
+            title.Font = Enum.Font.GothamBold
+            title.TextXAlignment = Enum.TextXAlignment.Left
+            title.Parent = header
+            
+            -- Subtitle
+            local subtitle = Instance.new("TextLabel")
+            subtitle.Size = UDim2.new(1, -40, 0, 16)
+            subtitle.Position = UDim2.new(0, 20, 0, 30)
+            subtitle.BackgroundTransparency = 1
+            subtitle.Text = self.subtitle
+            subtitle.TextColor3 = Colors.textSecondary
+            subtitle.TextSize = 12
+            subtitle.Font = Enum.Font.Gotham
+            subtitle.TextXAlignment = Enum.TextXAlignment.Left
+            subtitle.Parent = header
+            
+            -- Close button
+            local closeButton = Instance.new("TextButton")
+            closeButton.Size = UDim2.new(0, 30, 0, 30)
+            closeButton.Position = UDim2.new(1, -40, 0.5, -15)
+            closeButton.BackgroundColor3 = Colors.surfaceLight
+            closeButton.BorderSizePixel = 0
+            closeButton.Text = "×"
+            closeButton.TextColor3 = Colors.textSecondary
+            closeButton.TextSize = 20
+            closeButton.Font = Enum.Font.GothamBold
+            closeButton.Parent = header
+            
+            local closeCorner = Instance.new("UICorner")
+            closeCorner.CornerRadius = UDim.new(0, 8)
+            closeCorner.Parent = closeButton
+            
+            self.elements.closeButton = closeButton
+            
+            -- Content
+            local content = Instance.new("Frame")
+            content.Size = UDim2.new(1, -40, 1, -90)
+            content.Position = UDim2.new(0, 20, 0, 70)
+            content.BackgroundTransparency = 1
+            content.Parent = container
+            
+            -- Description
+            local desc = Instance.new("TextLabel")
+            desc.Size = UDim2.new(1, 0, 0, 30)
+            desc.BackgroundTransparency = 1
+            desc.Text = self.description
+            desc.TextColor3 = Colors.textSecondary
+            desc.TextSize = 13
+            desc.Font = Enum.Font.Gotham
+            desc.TextWrapped = true
+            desc.TextXAlignment = Enum.TextXAlignment.Left
+            desc.Parent = content
+            
+            -- Key Input
+            local inputContainer = Instance.new("Frame")
+            inputContainer.Size = UDim2.new(1, 0, 0, 44)
+            inputContainer.Position = UDim2.new(0, 0, 0, 40)
+            inputContainer.BackgroundColor3 = Colors.background
+            inputContainer.BorderSizePixel = 0
+            inputContainer.Parent = content
+            
+            local inputCorner = Instance.new("UICorner")
+            inputCorner.CornerRadius = UDim.new(0, 8)
+            inputCorner.Parent = inputContainer
+            
+            local inputStroke = Instance.new("UIStroke")
+            inputStroke.Color = Colors.border
+            inputStroke.Thickness = 1
+            inputStroke.Parent = inputContainer
+            
+            local keyInput = Instance.new("TextBox")
+            keyInput.Size = UDim2.new(1, -20, 1, 0)
+            keyInput.Position = UDim2.new(0, 10, 0, 0)
+            keyInput.BackgroundTransparency = 1
+            keyInput.PlaceholderText = "Enter your key..."
+            keyInput.PlaceholderColor3 = Colors.textSecondary
+            keyInput.Text = ""
+            keyInput.TextColor3 = Colors.textPrimary
+            keyInput.TextSize = 14
+            keyInput.Font = Enum.Font.Gotham
+            keyInput.TextXAlignment = Enum.TextXAlignment.Left
+            keyInput.ClearTextOnFocus = false
+            keyInput.Parent = inputContainer
+            
+            self.elements.keyInput = keyInput
+            self.elements.inputStroke = inputStroke
+            
+            -- Verify Button
+            local verifyButton = Instance.new("TextButton")
+            verifyButton.Size = UDim2.new(1, 0, 0, 44)
+            verifyButton.Position = UDim2.new(0, 0, 0, 94)
+            verifyButton.BackgroundColor3 = Colors.primary
+            verifyButton.BorderSizePixel = 0
+            verifyButton.Text = "Verify Key"
+            verifyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+            verifyButton.TextSize = 14
+            verifyButton.Font = Enum.Font.GothamBold
+            verifyButton.Parent = content
+            
+            local verifyCorner = Instance.new("UICorner")
+            verifyCorner.CornerRadius = UDim.new(0, 8)
+            verifyCorner.Parent = verifyButton
+            
+            self.elements.verifyButton = verifyButton
+            
+            -- Get Key Button
+            local getKeyButton = Instance.new("TextButton")
+            getKeyButton.Size = UDim2.new(1, 0, 0, 40)
+            getKeyButton.Position = UDim2.new(0, 0, 0, 148)
+            getKeyButton.BackgroundColor3 = Colors.surfaceLight
+            getKeyButton.BorderSizePixel = 0
+            getKeyButton.Text = "Get Key"
+            getKeyButton.TextColor3 = Colors.textPrimary
+            getKeyButton.TextSize = 14
+            getKeyButton.Font = Enum.Font.GothamBold
+            getKeyButton.Parent = content
+            
+            local getKeyCorner = Instance.new("UICorner")
+            getKeyCorner.CornerRadius = UDim.new(0, 8)
+            getKeyCorner.Parent = getKeyButton
+            
+            self.elements.getLinkButton = getKeyButton
+            
+            -- Status Label
+            local statusLabel = Instance.new("TextLabel")
+            statusLabel.Size = UDim2.new(1, 0, 0, 20)
+            statusLabel.Position = UDim2.new(0, 0, 1, -25)
+            statusLabel.BackgroundTransparency = 1
+            statusLabel.Text = ""
+            statusLabel.TextColor3 = Colors.textSecondary
+            statusLabel.TextSize = 12
+            statusLabel.Font = Enum.Font.Gotham
+            statusLabel.TextXAlignment = Enum.TextXAlignment.Center
+            statusLabel.Visible = false
+            statusLabel.Parent = content
+            
+            self.elements.statusLabel = statusLabel
+            
+            return self.gui
+        end
+    end
+end
+
+-- UI Class
+local UI = {}
+UI.__index = UI
+
+function UI.new(options)
+    local self = setmetatable({}, UI)
+    
+    self.options = options or {}
+    self.title = self.options.title or "Key Verification"
+    self.subtitle = self.options.subtitle or "Powered by Junkie"
+    self.description = self.options.description or "Please verify your key to continue"
+    
+    self.player = Players.LocalPlayer
+    self.gui = nil
+    self.hwid = game:GetService("RbxAnalyticsService"):GetClientId()
+    self._connections = {}
+    
+    return self
+end
+
+function UI:createUI()
+    local UIFactory = loadUIFactory()
+    
+    if UIFactory then
+        local uiBuilder = UIFactory(Colors, Players, TweenService, UserInputService, Lighting)
+        if uiBuilder then
+            uiBuilder(self)
+        end
+    end
+    
+    -- Connect buttons
+    if self.elements.closeButton then
+        table.insert(self._connections, self.elements.closeButton.MouseButton1Click:Connect(function()
+            self:close()
+        end))
+    end
+    
+    if self.elements.getLinkButton then
+        table.insert(self._connections, self.elements.getLinkButton.MouseButton1Click:Connect(function()
+            self:handleGetLink()
+        end))
+    end
+    
+    if self.elements.verifyButton then
+        table.insert(self._connections, self.elements.verifyButton.MouseButton1Click:Connect(function()
+            self:handleVerifyKey()
+        end))
+    end
+    
+    if self.elements.keyInput then
+        table.insert(self._connections, self.elements.keyInput.FocusLost:Connect(function(enterPressed)
+            if enterPressed then
+                self:handleVerifyKey()
+            end
+        end))
+    end
+    
+    return self.gui
+end
+
+function UI:close()
+    getgenv().UI_CLOSED = true
+    for _, conn in ipairs(self._connections or {}) do
+        pcall(function() conn:Disconnect() end)
+    end
+    self._connections = {}
+    if self.gui then self.gui:Destroy() end
+    
+    local blur = Lighting:FindFirstChild("JunkieUIBlur")
+    if blur then blur:Destroy() end
+    
+    return getgenv().SCRIPT_KEY
+end
+
+function UI:updateStatus(message, color, duration)
+    if not self.elements or not self.elements.statusLabel then return end
+    
+    local statusLabel = self.elements.statusLabel
+    statusLabel.Text = message
+    statusLabel.TextColor3 = color
+    statusLabel.Visible = true
+    
+    if duration and duration > 0 then
+        task.delay(duration, function()
+            if statusLabel then
+                statusLabel.Visible = false
+            end
+        end)
+    end
+end
+
+function UI:handleGetLink()
+    local secureGetKeyLink = Junkie.get_key_link()
+    if not secureGetKeyLink then
+        self:updateStatus("System not initialized", Colors.error, 3)
+        return
+    end
+    
+    if setclipboard then
+        setclipboard(secureGetKeyLink)
+        self:updateStatus("Link copied to clipboard!", Colors.success, 3)
+    else
+        self:updateStatus("Get link: " .. secureGetKeyLink, Colors.primary, 10)
+    end
+end
+
+function UI:handleVerifyKey()
+    local key = self.elements.keyInput.Text:gsub("%s+", "")
+    
+    if key == "" then
+        self:updateStatus("Please enter a key", Colors.error, 3)
+        return
+    end
+    
+    self.elements.verifyButton.Text = "Verifying..."
+    self:updateStatus("Verifying...", Colors.primary, 0)
+    
+    local result = Junkie.check_key(key)
+    
+    if result and result.valid then
+        saveVerifiedKey(key)
+        self:updateStatus("Key verified!", Colors.success, 0)
+        
+        task.wait(1)
+        getgenv().SCRIPT_KEY = key
+        self:close()
+        return
+    else
+        self:updateStatus("Invalid key", Colors.error, 3)
+        self.elements.verifyButton.Text = "Verify Key"
+    end
+end
+
+-- Initialize globals
+getgenv().UI_CLOSED = false
+getgenv().SCRIPT_KEY = nil
+
+-- Create UI
+local ui = UI.new(options)
+ui:createUI()
+
+-- Check for saved key
+local savedKey = loadVerifiedKey()
+if savedKey then
+    print("[Moon Incremental] Checking saved key...")
+    local result = Junkie.check_key(savedKey)
+    if result and result.valid then
+        print("[Moon Incremental] ✓ Saved key verified!")
+        getgenv().SCRIPT_KEY = savedKey
+        ui:close()
+        -- Continue to main script below
+    else
+        print("[Moon Incremental] Saved key invalid, clearing...")
+        clearSavedKey()
+    end
+end
+
+-- Wait for verification if no saved key
+if not getgenv().SCRIPT_KEY then
+    print("[Moon Incremental] Waiting for key verification...")
+    while not getgenv().UI_CLOSED do
+        task.wait(0.1)
+    end
+end
+
+-- Stop if key verification failed
+if not getgenv().SCRIPT_KEY then
+    warn("[Moon Incremental] ⚠ Key verification failed or was cancelled")
+    return
+end
+
+print("[Moon Incremental] ✓ Key verified! Loading main script...")
+task.wait(0.5)
+
+-- ============================================================
+-- MAIN SCRIPT - Only runs after successful key verification
+-- ============================================================
+
+-- Configuration
+local Config = {
+    UIVisible = true,
+    Toggles = {
+        Stars = {
+            Enabled = false,
+            Speed = 0.1,
+            Intensity = 1,
+            LastRun = 0
+        },
+        Essence = {
+            Enabled = false,
+            Speed = 0.1,
+            Intensity = 1,
+            LastRun = 0
+        },
+        Fragments = {
+            Enabled = false,
+            Speed = 0.1,
+            Intensity = 1,
+            LastRun = 0
+        },
+        SmeltScrap = {
+            Enabled = false,
+            Delay = 1,
+            LastRun = 0
+        },
+        SmeltCollect = {
+            Enabled = false,
+            Delay = 1,
+            LastRun = 0
+        },
+        Diamonds = {
+            Enabled = false,
+            Delay = 1,
+            LastRun = 0
+        }
+    }
+}
+
+-- Create ScreenGui
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "MoonIncrementalGUI"
+ScreenGui.ResetOnSpawn = false
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.Parent = PlayerGui
+
+-- Main Frame
+local MainFrame = Instance.new("Frame")
+MainFrame.Name = "MainFrame"
+MainFrame.Size = UDim2.new(0, 380, 0, 580)
+MainFrame.Position = UDim2.new(0.5, -190, 0.5, -290)
+MainFrame.BackgroundColor3 = Color3.fromRGB(18, 18, 24)
+MainFrame.BorderSizePixel = 0
+MainFrame.Active = true
+MainFrame.Draggable = true
+MainFrame.Parent = ScreenGui
+
+local MainCorner = Instance.new("UICorner")
+MainCorner.CornerRadius = UDim.new(0, 8)
+MainCorner.Parent = MainFrame
+
+-- Accent Line
+local AccentLine = Instance.new("Frame")
+AccentLine.Size = UDim2.new(1, 0, 0, 2)
+AccentLine.Position = UDim2.new(0, 0, 0, 42)
+AccentLine.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+AccentLine.BorderSizePixel = 0
+AccentLine.Parent = MainFrame
+
+-- Top Bar
+local TopBar = Instance.new("Frame")
+TopBar.Name = "TopBar"
+TopBar.Size = UDim2.new(1, 0, 0, 42)
+TopBar.BackgroundTransparency = 1
+TopBar.Parent = MainFrame
+
+-- Title
+local Title = Instance.new("TextLabel")
+Title.Size = UDim2.new(1, -80, 1, 0)
+Title.Position = UDim2.new(0, 16, 0, 0)
+Title.BackgroundTransparency = 1
+Title.Text = "Moon Incremental"
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextSize = 15
+Title.Font = Enum.Font.GothamBold
+Title.TextXAlignment = Enum.TextXAlignment.Left
+Title.Parent = TopBar
+
+-- Credit
+local Credit = Instance.new("TextLabel")
+Credit.Size = UDim2.new(1, -80, 0, 14)
+Credit.Position = UDim2.new(0, 16, 0, 22)
+Credit.BackgroundTransparency = 1
+Credit.Text = "by NVHeadMonbo"
+Credit.TextColor3 = Color3.fromRGB(120, 120, 130)
+Credit.TextSize = 10
+Credit.Font = Enum.Font.Gotham
+Credit.TextXAlignment = Enum.TextXAlignment.Left
+Credit.Parent = TopBar
+
+-- Minimize Button
+local MinimizeButton = Instance.new("TextButton")
+MinimizeButton.Size = UDim2.new(0, 28, 0, 28)
+MinimizeButton.Position = UDim2.new(1, -36, 0, 7)
+MinimizeButton.BackgroundColor3 = Color3.fromRGB(32, 34, 42)
+MinimizeButton.BorderSizePixel = 0
+MinimizeButton.Text = "−"
+MinimizeButton.TextColor3 = Color3.fromRGB(200, 200, 210)
+MinimizeButton.TextSize = 18
+MinimizeButton.Font = Enum.Font.GothamBold
+MinimizeButton.Parent = TopBar
+
+local MinimizeCorner = Instance.new("UICorner")
+MinimizeCorner.CornerRadius = UDim.new(0, 6)
+MinimizeCorner.Parent = MinimizeButton
+
+-- Content Container
+local ContentFrame = Instance.new("ScrollingFrame")
+ContentFrame.Name = "ContentFrame"
+ContentFrame.Size = UDim2.new(1, -24, 1, -56)
+ContentFrame.Position = UDim2.new(0, 12, 0, 50)
+ContentFrame.BackgroundTransparency = 1
+ContentFrame.BorderSizePixel = 0
+ContentFrame.ScrollBarThickness = 4
+ContentFrame.ScrollBarImageColor3 = Color3.fromRGB(88, 101, 242)
+ContentFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
+ContentFrame.AutomaticCanvasSize = Enum.AutomaticSize.Y
+ContentFrame.Parent = MainFrame
+
+local ContentLayout = Instance.new("UIListLayout")
+ContentLayout.Padding = UDim.new(0, 8)
+ContentLayout.SortOrder = Enum.SortOrder.LayoutOrder
+ContentLayout.Parent = ContentFrame
+
+local function CreateToggleCard(name, config, hasIntensity)
+    local Card = Instance.new("Frame")
+    Card.Name = name .. "Card"
+    Card.Size = UDim2.new(1, 0, 0, hasIntensity and 108 or 76)
+    Card.BackgroundColor3 = Color3.fromRGB(24, 26, 32)
+    Card.BorderSizePixel = 0
+    
+    local CardCorner = Instance.new("UICorner")
+    CardCorner.CornerRadius = UDim.new(0, 6)
+    CardCorner.Parent = Card
+    
+    local ToggleName = Instance.new("TextLabel")
+    ToggleName.Size = UDim2.new(1, -90, 0, 20)
+    ToggleName.Position = UDim2.new(0, 12, 0, 10)
+    ToggleName.BackgroundTransparency = 1
+    ToggleName.Text = name
+    ToggleName.TextColor3 = Color3.fromRGB(240, 240, 245)
+    ToggleName.TextSize = 13
+    ToggleName.Font = Enum.Font.GothamMedium
+    ToggleName.TextXAlignment = Enum.TextXAlignment.Left
+    ToggleName.Parent = Card
+    
+    local ToggleButton = Instance.new("TextButton")
+    ToggleButton.Name = "ToggleButton"
+    ToggleButton.Size = UDim2.new(0, 60, 0, 24)
+    ToggleButton.Position = UDim2.new(1, -72, 0, 8)
+    ToggleButton.BackgroundColor3 = Color3.fromRGB(40, 42, 50)
+    ToggleButton.BorderSizePixel = 0
+    ToggleButton.Text = "OFF"
+    ToggleButton.TextColor3 = Color3.fromRGB(140, 140, 150)
+    ToggleButton.TextSize = 11
+    ToggleButton.Font = Enum.Font.GothamBold
+    ToggleButton.Parent = Card
+    
+    local ToggleCorner = Instance.new("UICorner")
+    ToggleCorner.CornerRadius = UDim.new(0, 5)
+    ToggleCorner.Parent = ToggleButton
+    
+    local SpeedLabel = Instance.new("TextLabel")
+    SpeedLabel.Size = UDim2.new(0.5, -8, 0, 16)
+    SpeedLabel.Position = UDim2.new(0, 12, 0, 38)
+    SpeedLabel.BackgroundTransparency = 1
+    SpeedLabel.Text = (name == "Smelt Scrap Auto" or name == "Smelt Collect Auto" or name == "Diamonds Collect") and "Delay" or "Speed"
+    SpeedLabel.TextColor3 = Color3.fromRGB(150, 150, 160)
+    SpeedLabel.TextSize = 10
+    SpeedLabel.Font = Enum.Font.Gotham
+    SpeedLabel.TextXAlignment = Enum.TextXAlignment.Left
+    SpeedLabel.Parent = Card
+    
+    local SpeedValue = Instance.new("TextLabel")
+    SpeedValue.Name = "SpeedValue"
+    SpeedValue.Size = UDim2.new(0.5, -8, 0, 16)
+    SpeedValue.Position = UDim2.new(0.5, 4, 0, 38)
+    SpeedValue.BackgroundTransparency = 1
+    SpeedValue.Text = (name == "Smelt Scrap Auto" or name == "Smelt Collect Auto" or name == "Diamonds Collect") and "1.0s" or "0.10s"
+    SpeedValue.TextColor3 = Color3.fromRGB(88, 101, 242)
+    SpeedValue.TextSize = 10
+    SpeedValue.Font = Enum.Font.GothamBold
+    SpeedValue.TextXAlignment = Enum.TextXAlignment.Right
+    SpeedValue.Parent = Card
+    
+    local SpeedSlider = Instance.new("Frame")
+    SpeedSlider.Name = "SpeedSlider"
+    SpeedSlider.Size = UDim2.new(1, -24, 0, 4)
+    SpeedSlider.Position = UDim2.new(0, 12, 0, 56)
+    SpeedSlider.BackgroundColor3 = Color3.fromRGB(35, 37, 45)
+    SpeedSlider.BorderSizePixel = 0
+    SpeedSlider.Parent = Card
+    
+    local SliderCorner = Instance.new("UICorner")
+    SliderCorner.CornerRadius = UDim.new(1, 0)
+    SliderCorner.Parent = SpeedSlider
+    
+    local SpeedFill = Instance.new("Frame")
+    SpeedFill.Name = "Fill"
+    SpeedFill.Size = UDim2.new(0.1, 0, 1, 0)
+    SpeedFill.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+    SpeedFill.BorderSizePixel = 0
+    SpeedFill.Parent = SpeedSlider
+    
+    local FillCorner = Instance.new("UICorner")
+    FillCorner.CornerRadius = UDim.new(1, 0)
+    FillCorner.Parent = SpeedFill
+    
+    local SpeedButton = Instance.new("TextButton")
+    SpeedButton.Name = "Button"
+    SpeedButton.Size = UDim2.new(1, 0, 1, 12)
+    SpeedButton.Position = UDim2.new(0, 0, 0, -6)
+    SpeedButton.BackgroundTransparency = 1
+    SpeedButton.Text = ""
+    SpeedButton.Parent = SpeedSlider
+    
+    local IntensitySlider, IntensityFill, IntensityValue
+    if hasIntensity then
+        local IntensityLabel = Instance.new("TextLabel")
+        IntensityLabel.Size = UDim2.new(0.5, -8, 0, 16)
+        IntensityLabel.Position = UDim2.new(0, 12, 0, 70)
+        IntensityLabel.BackgroundTransparency = 1
+        IntensityLabel.Text = "Intensity"
+        IntensityLabel.TextColor3 = Color3.fromRGB(150, 150, 160)
+        IntensityLabel.TextSize = 10
+        IntensityLabel.Font = Enum.Font.Gotham
+        IntensityLabel.TextXAlignment = Enum.TextXAlignment.Left
+        IntensityLabel.Parent = Card
+        
+        IntensityValue = Instance.new("TextLabel")
+        IntensityValue.Name = "IntensityValue"
+        IntensityValue.Size = UDim2.new(0.5, -8, 0, 16)
+        IntensityValue.Position = UDim2.new(0.5, 4, 0, 70)
+        IntensityValue.BackgroundTransparency = 1
+        IntensityValue.Text = "1x"
+        IntensityValue.TextColor3 = Color3.fromRGB(255, 107, 107)
+        IntensityValue.TextSize = 10
+        IntensityValue.Font = Enum.Font.GothamBold
+        IntensityValue.TextXAlignment = Enum.TextXAlignment.Right
+        IntensityValue.Parent = Card
+        
+        IntensitySlider = Instance.new("Frame")
+        IntensitySlider.Name = "IntensitySlider"
+        IntensitySlider.Size = UDim2.new(1, -24, 0, 4)
+        IntensitySlider.Position = UDim2.new(0, 12, 0, 88)
+        IntensitySlider.BackgroundColor3 = Color3.fromRGB(35, 37, 45)
+        IntensitySlider.BorderSizePixel = 0
+        IntensitySlider.Parent = Card
+        
+        local IntSliderCorner = Instance.new("UICorner")
+        IntSliderCorner.CornerRadius = UDim.new(1, 0)
+        IntSliderCorner.Parent = IntensitySlider
+        
+        IntensityFill = Instance.new("Frame")
+        IntensityFill.Name = "Fill"
+        IntensityFill.Size = UDim2.new(0, 0, 1, 0)
+        IntensityFill.BackgroundColor3 = Color3.fromRGB(255, 107, 107)
+        IntensityFill.BorderSizePixel = 0
+        IntensityFill.Parent = IntensitySlider
+        
+        local IntFillCorner = Instance.new("UICorner")
+        IntFillCorner.CornerRadius = UDim.new(1, 0)
+        IntFillCorner.Parent = IntensityFill
+        
+        local IntensityButton = Instance.new("TextButton")
+        IntensityButton.Name = "Button"
+        IntensityButton.Size = UDim2.new(1, 0, 1, 12)
+        IntensityButton.Position = UDim2.new(0, 0, 0, -6)
+        IntensityButton.BackgroundTransparency = 1
+        IntensityButton.Text = ""
+        IntensityButton.Parent = IntensitySlider
+    end
+    
+    Card.Parent = ContentFrame
+    
+    return {
+        Card = Card,
+        ToggleButton = ToggleButton,
+        SpeedSlider = SpeedSlider,
+        SpeedFill = SpeedFill,
+        SpeedButton = SpeedButton,
+        SpeedValue = SpeedValue,
+        IntensitySlider = IntensitySlider,
+        IntensityFill = IntensityFill,
+        IntensityValue = IntensityValue
+    }
+end
+
+local StarsCard = CreateToggleCard("Stars", Config.Toggles.Stars, true)
+local EssenceCard = CreateToggleCard("Essence", Config.Toggles.Essence, true)
+local FragmentsCard = CreateToggleCard("Fragments", Config.Toggles.Fragments, true)
+local SmeltCard = CreateToggleCard("Smelt Scrap Auto", Config.Toggles.SmeltScrap, false)
+local SmeltCollectCard = CreateToggleCard("Smelt Collect Auto", Config.Toggles.SmeltCollect, false)
+local DiamondsCard = CreateToggleCard("Diamonds Collect", Config.Toggles.Diamonds, false)
+
+local function SetupSlider(sliderFrame, fillFrame, valueLabel, config, property, isDelay)
+    local button = sliderFrame:FindFirstChild("Button")
+    local dragging = false
+    
+    local function updateSlider(input)
+        local sizeX = sliderFrame.AbsoluteSize.X
+        local posX = math.clamp(input.Position.X - sliderFrame.AbsolutePosition.X, 0, sizeX)
+        local percent = posX / sizeX
+        
+        fillFrame.Size = UDim2.new(percent, 0, 1, 0)
+        
+        if isDelay then
+            local value = 0.1 + (percent * 9.9)
+            config[property] = math.floor(value * 10) / 10
+            valueLabel.Text = string.format("%.1fs", config[property])
+        else
+            local value = 0.01 + (percent * 0.99)
+            config[property] = math.floor(value * 100) / 100
+            valueLabel.Text = string.format("%.2fs", config[property])
+        end
+    end
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+            updateSlider(input)
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = false
+        end
+    end)
+    
+    UserInputService.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+            updateSlider(input)
+        end
+    end)
+end
+
+local function SetupIntensitySlider(sliderFrame, fillFrame, valueLabel, config)
+    local button = sliderFrame:FindFirstChild("Button")
+    local dragging = false
+    
+    local function updateSlider(input)
+        local sizeX = sliderFrame.AbsoluteSize.X
+        local posX = math.clamp(input.Position.X - sliderFrame.AbsolutePosition.X, 0, sizeX)
+        local percent = posX / sizeX
+        
+        fillFrame.Size = UDim2.new(percent, 0, 1, 0)
+        
+        local value = 1 + math.floor(percent * 9)
+        config.Intensity = value
+        valueLabel.Text = string.format("%dx", value)
+    end
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+            updateSlider(input)
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = false
+        end
+    end)
+    
+    UserInputService.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+            updateSlider(input)
+        end
+    end)
+end
+
+SetupSlider(StarsCard.SpeedSlider, StarsCard.SpeedFill, StarsCard.SpeedValue, Config.Toggles.Stars, "Speed", false)
+SetupIntensitySlider(StarsCard.IntensitySlider, StarsCard.IntensityFill, StarsCard.IntensityValue, Config.Toggles.Stars)
+
+SetupSlider(EssenceCard.SpeedSlider, EssenceCard.SpeedFill, EssenceCard.SpeedValue, Config.Toggles.Essence, "Speed", false)
+SetupIntensitySlider(EssenceCard.IntensitySlider, EssenceCard.IntensityFill, EssenceCard.IntensityValue, Config.Toggles.Essence)
+
+SetupSlider(FragmentsCard.SpeedSlider, FragmentsCard.SpeedFill, FragmentsCard.SpeedValue, Config.Toggles.Fragments, "Speed", false)
+SetupIntensitySlider(FragmentsCard.IntensitySlider, FragmentsCard.IntensityFill, FragmentsCard.IntensityValue, Config.Toggles.Fragments)
+
+SetupSlider(SmeltCard.SpeedSlider, SmeltCard.SpeedFill, SmeltCard.SpeedValue, Config.Toggles.SmeltScrap, "Delay", true)
+SetupSlider(SmeltCollectCard.SpeedSlider, SmeltCollectCard.SpeedFill, SmeltCollectCard.SpeedValue, Config.Toggles.SmeltCollect, "Delay", true)
+SetupSlider(DiamondsCard.SpeedSlider, DiamondsCard.SpeedFill, DiamondsCard.SpeedValue, Config.Toggles.Diamonds, "Delay", true)
+
+local function SetupToggleButton(button, config)
+    button.MouseButton1Click:Connect(function()
+        config.Enabled = not config.Enabled
+        
+        if config.Enabled then
+            TweenService:Create(button, TweenInfo.new(0.2), {
+                BackgroundColor3 = Color3.fromRGB(88, 101, 242)
+            }):Play()
+            button.Text = "ON"
+            button.TextColor3 = Color3.fromRGB(255, 255, 255)
+        else
+            TweenService:Create(button, TweenInfo.new(0.2), {
+                BackgroundColor3 = Color3.fromRGB(40, 42, 50)
+            }):Play()
+            button.Text = "OFF"
+            button.TextColor3 = Color3.fromRGB(140, 140, 150)
+        end
+    end)
+end
+
+SetupToggleButton(StarsCard.ToggleButton, Config.Toggles.Stars)
+SetupToggleButton(EssenceCard.ToggleButton, Config.Toggles.Essence)
+SetupToggleButton(FragmentsCard.ToggleButton, Config.Toggles.Fragments)
+SetupToggleButton(SmeltCard.ToggleButton, Config.Toggles.SmeltScrap)
+SetupToggleButton(SmeltCollectCard.ToggleButton, Config.Toggles.SmeltCollect)
+SetupToggleButton(DiamondsCard.ToggleButton, Config.Toggles.Diamonds)
+
+local minimized = false
+MinimizeButton.MouseButton1Click:Connect(function()
+    minimized = not minimized
+    
+    local targetSize = minimized and UDim2.new(0, 380, 0, 42) or UDim2.new(0, 380, 0, 580)
+    
+    TweenService:Create(MainFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
+        Size = targetSize
+    }):Play()
+    
+    MinimizeButton.Text = minimized and "+" or "−"
+    ContentFrame.Visible = not minimized
+    AccentLine.Visible = not minimized
+end)
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if not gameProcessed and input.KeyCode == Enum.KeyCode.K then
+        Config.UIVisible = not Config.UIVisible
+        ScreenGui.Enabled = Config.UIVisible
+    end
+end)
+
+RunService.Heartbeat:Connect(function()
+    local currentTime = tick()
+    
+    if Config.Toggles.Stars.Enabled then
+        if currentTime - Config.Toggles.Stars.LastRun >= Config.Toggles.Stars.Speed then
+            Config.Toggles.Stars.LastRun = currentTime
+            
+            for i = 1, Config.Toggles.Stars.Intensity do
+                task.spawn(function()
+                    pcall(function()
+                        local args = {
+                            Vector3.new(-221.68064880371094, 5.273603916168213, -17.193782806396484)
+                        }
+                        ReplicatedStorage:WaitForChild("UpdateStarStat"):FireServer(unpack(args))
+                    end)
+                end)
+            end
+        end
+    end
+    
+    if Config.Toggles.Essence.Enabled then
+        if currentTime - Config.Toggles.Essence.LastRun >= Config.Toggles.Essence.Speed then
+            Config.Toggles.Essence.LastRun = currentTime
+            
+            for i = 1, Config.Toggles.Essence.Intensity do
+                task.spawn(function()
+                    pcall(function()
+                        local args = {
+                            Vector3.new(-215, 6.036557674407959, -30),
+                            false
+                        }
+                        ReplicatedStorage:WaitForChild("UpdateEssenceStat"):FireServer(unpack(args))
+                    end)
+                end)
+            end
+        end
+    end
+    
+    if Config.Toggles.Fragments.Enabled then
+        if currentTime - Config.Toggles.Fragments.LastRun >= Config.Toggles.Fragments.Speed then
+            Config.Toggles.Fragments.LastRun = currentTime
+            
+            for i = 1, Config.Toggles.Fragments.Intensity do
+                task.spawn(function()
+                    pcall(function()
+                        local args = {
+                            workspace:WaitForChild("Cave"):WaitForChild("Ore_9217932433")
+                        }
+                        ReplicatedStorage:WaitForChild("MineRock"):FireServer(unpack(args))
+                    end)
+                end)
+            end
+        end
+    end
+    
+    if Config.Toggles.SmeltScrap.Enabled then
+        if currentTime - Config.Toggles.SmeltScrap.LastRun >= Config.Toggles.SmeltScrap.Delay then
+            Config.Toggles.SmeltScrap.LastRun = currentTime
+            
+            task.spawn(function()
+                pcall(function()
+                    ReplicatedStorage:WaitForChild("SmeltDeposit"):FireServer()
+                end)
+            end)
+        end
+    end
+    
+    if Config.Toggles.SmeltCollect.Enabled then
+        if currentTime - Config.Toggles.SmeltCollect.LastRun >= Config.Toggles.SmeltCollect.Delay then
+            Config.Toggles.SmeltCollect.LastRun = currentTime
+            
+            task.spawn(function()
+                pcall(function()
+                    ReplicatedStorage:WaitForChild("SmeltCollect"):FireServer()
+                end)
+            end)
+        end
+    end
+    
+    if Config.Toggles.Diamonds.Enabled then
+        if currentTime - Config.Toggles.Diamonds.LastRun >= Config.Toggles.Diamonds.Delay then
+            Config.Toggles.Diamonds.LastRun = currentTime
+            
+            task.spawn(function()
+                pcall(function()
+                    ReplicatedStorage:WaitForChild("MineshaftCollect"):FireServer()
+                end)
+            end)
+        end
+    end
+end)
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Moon Incremental";
+    Text = "Loaded successfully! Press K to toggle UI";
+    Duration = 4;
+})
+
+print("[Moon Incremental] Script loaded successfully!")
